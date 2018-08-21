@@ -27,7 +27,9 @@
 }
 
 .calculator button {
-    cursor: pointer;    
+    cursor: pointer;
+    background-color: #eee;
+    border: none; 
 }
 
 .calculator__current {
